@@ -33,9 +33,9 @@ Next, build the program by navigating to the folder in which you have the progra
 
 make CS201
 
-This should create an executable in your home directory which runs the program. If it doesn't, check to see that you have a C compiler installed. 
+This should create an executable in your directory which runs the program. If it doesn't, check to see that you have a C compiler installed. 
 
-Now, run the program once to generate the files in your home directory, place MovieInfo.txt into the directory MovieData.
+Now, run the program once to generate the files in your directory, place MovieInfo.txt into the directory MovieData.
 
 Now run the program again!
 

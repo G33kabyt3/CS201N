@@ -886,7 +886,7 @@ int deleteUser(char username[51])
 void closeDatabase()
 {
     freeTree(mTree);
-    fclose(userFile);
+    //fclose(userFile);
     fclose(movieFile);
     
     
